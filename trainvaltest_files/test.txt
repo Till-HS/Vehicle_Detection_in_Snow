@@ -1,0 +1,1913 @@
+./images/2022-12-04 Bjenberg 02-frame4549.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1004.png
+./images/2022-12-04 Bjenberg 02-frame4265.png
+./images/2022-12-04 Bjenberg 02-frame3498.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1082.png
+./images/2022-12-03 Nyland 01_stabilized-frame1551.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1609.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000835.png
+./images/2022-12-03 Nyland 01_stabilized-frame0700.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1315.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000988.png
+./images/2022-12-04 Bjenberg 02-frame1742.png
+./images/2022-12-04 Bjenberg 02-frame3014.png
+./images/2022-12-04 Bjenberg 02-frame1842.png
+./images/2022-12-04 Bjenberg 02-frame0933.png
+./images/2022-12-04 Bjenberg 02-frame1957.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2120.png
+./images/2022-12-04 Bjenberg 02-frame5115.png
+./images/2022-12-04 Bjenberg 02-frame0328.png
+./images/2022-12-04 Bjenberg 02-frame2281.png
+./images/2022-12-03 Nyland 01_stabilized-frame0104.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001143.png
+./images/2022-12-04 Bjenberg 02-frame3609.png
+./images/2022-12-04 Bjenberg 02-frame1793.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2365.png
+./images/2022-12-04 Bjenberg 02-frame1709.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001105.png
+./images/2022-12-04 Bjenberg 02-frame2290.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2049.png
+./images/2022-12-04 Bjenberg 02-frame2989.png
+./images/2022-12-04 Bjenberg 02-frame1470.png
+./images/2022-12-04 Bjenberg 02-frame3516.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001494.png
+./images/2022-12-04 Bjenberg 02-frame1450.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2175.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000843.png
+./images/2022-12-04 Bjenberg 02-frame1189.png
+./images/2022-12-04 Bjenberg 02-frame1275.png
+./images/2022-12-04 Bjenberg 02-frame3662.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000685.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1087.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2173.png
+./images/2022-12-04 Bjenberg 02-frame1799.png
+./images/2022-12-04 Bjenberg 02-frame2288.png
+./images/2022-12-04 Bjenberg 02-frame0347.png
+./images/2022-12-03 Nyland 01_stabilized-frame2028.png
+./images/2022-12-04 Bjenberg 02-frame1271.png
+./images/2022-12-04 Bjenberg 02-frame3235.png
+./images/2022-12-04 Bjenberg 02-frame0916.png
+./images/2022-12-04 Bjenberg 02-frame1162.png
+./images/2022-12-04 Bjenberg 02-frame0092.png
+./images/2022-12-04 Bjenberg 02-frame4275.png
+./images/2022-12-03 Nyland 01_stabilized-frame1709.png
+./images/2022-12-04 Bjenberg 02-frame2585.png
+./images/2022-12-04 Bjenberg 02-frame2758.png
+./images/2022-12-04 Bjenberg 02-frame1723.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1301.png
+./images/2022-12-04 Bjenberg 02-frame0871.png
+./images/2022-12-04 Bjenberg 02-frame4347.png
+./images/2022-12-04 Bjenberg 02-frame0550.png
+./images/2022-12-03 Nyland 01_stabilized-frame0961.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001610.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2224.png
+./images/2022-12-04 Bjenberg 02-frame4977.png
+./images/2022-12-04 Bjenberg 02-frame0720.png
+./images/2022-12-03 Nyland 01_stabilized-frame2349.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1623.png
+./images/2022-12-04 Bjenberg 02-frame4285.png
+./images/2022-12-03 Nyland 01_stabilized-frame0808.png
+./images/2022-12-04 Bjenberg 02-frame3728.png
+./images/2022-12-04 Bjenberg 02-frame0079.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1835.png
+./images/2022-12-04 Bjenberg 02-frame4241.png
+./images/2022-12-04 Bjenberg 02-frame2284.png
+./images/2022-12-04 Bjenberg 02-frame1030.png
+./images/2022-12-04 Bjenberg 02-frame2259.png
+./images/2022-12-04 Bjenberg 02-frame0173.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001680.png
+./images/2022-12-04 Bjenberg 02-frame0318.png
+./images/2022-12-04 Bjenberg 02-frame0187.png
+./images/2022-12-04 Bjenberg 02-frame1463.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001328.png
+./images/2022-12-04 Bjenberg 02-frame2315.png
+./images/2022-12-04 Bjenberg 02-frame3807.png
+./images/2022-12-04 Bjenberg 02-frame2393.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2146.png
+./images/2022-12-04 Bjenberg 02-frame1308.png
+./images/2022-12-03 Nyland 01_stabilized-frame0663.png
+./images/2022-12-03 Nyland 01_stabilized-frame0982.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001643.png
+./images/2022-12-04 Bjenberg 02-frame1708.png
+./images/2022-12-04 Bjenberg 02-frame3133.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0718.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2414.png
+./images/2022-12-04 Bjenberg 02-frame3283.png
+./images/2022-12-04 Bjenberg 02-frame0067.png
+./images/2022-12-04 Bjenberg 02-frame3005.png
+./images/2022-12-04 Bjenberg 02-frame0222.png
+./images/2022-12-04 Bjenberg 02-frame3653.png
+./images/2022-12-04 Bjenberg 02-frame4025.png
+./images/2022-12-03 Nyland 01_stabilized-frame0667.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2165.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0282.png
+./images/2022-12-04 Bjenberg 02-frame0854.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001633.png
+./images/2022-12-04 Bjenberg 02-frame0869.png
+./images/2022-12-03 Nyland 01_stabilized-frame1930.png
+./images/2022-12-04 Bjenberg 02-frame2599.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2313.png
+./images/2022-12-04 Bjenberg 02-frame2639.png
+./images/2022-12-04 Bjenberg 02-frame0987.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001608.png
+./images/2022-12-04 Bjenberg 02-frame4630.png
+./images/2022-12-04 Bjenberg 02-frame0977.png
+./images/2022-12-04 Bjenberg 02-frame0629.png
+./images/2022-12-04 Bjenberg 02-frame4340.png
+./images/2022-12-04 Bjenberg 02-frame0149.png
+./images/2022-12-04 Bjenberg 02-frame2098.png
+./images/2022-12-04 Bjenberg 02-frame0483.png
+./images/2022-12-04 Bjenberg 02-frame3746.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1485.png
+./images/2022-12-03 Nyland 01_stabilized-frame1887.png
+./images/2022-12-03 Nyland 01_stabilized-frame0138.png
+./images/2022-12-04 Bjenberg 02-frame0641.png
+./images/2022-12-04 Bjenberg 02-frame4362.png
+./images/2022-12-04 Bjenberg 02-frame1636.png
+./images/2022-12-04 Bjenberg 02-frame0726.png
+./images/2022-12-04 Bjenberg 02-frame2491.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000557.png
+./images/2022-12-03 Nyland 01_stabilized-frame1170.png
+./images/2022-12-04 Bjenberg 02-frame1675.png
+./images/2022-12-04 Bjenberg 02-frame2635.png
+./images/2022-12-04 Bjenberg 02-frame4196.png
+./images/2022-12-04 Bjenberg 02-frame2153.png
+./images/2022-12-04 Bjenberg 02-frame2151.png
+./images/2022-12-04 Bjenberg 02-frame0150.png
+./images/2022-12-04 Bjenberg 02-frame3570.png
+./images/2022-12-04 Bjenberg 02-frame1095.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001813.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001055.png
+./images/2022-12-04 Bjenberg 02-frame1743.png
+./images/2022-12-04 Bjenberg 02-frame3804.png
+./images/2022-12-04 Bjenberg 02-frame1847.png
+./images/2022-12-04 Bjenberg 02-frame3468.png
+./images/2022-12-04 Bjenberg 02-frame1724.png
+./images/2022-12-04 Bjenberg 02-frame1035.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2209.png
+./images/2022-12-04 Bjenberg 02-frame0799.png
+./images/2022-12-04 Bjenberg 02-frame4212.png
+./images/2022-12-04 Bjenberg 02-frame3186.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1628.png
+./images/2022-12-04 Bjenberg 02-frame1717.png
+./images/2022-12-04 Bjenberg 02-frame0320.png
+./images/2022-12-04 Bjenberg 02-frame1887.png
+./images/2022-12-03 Nyland 01_stabilized-frame1921.png
+./images/2022-12-04 Bjenberg 02-frame0966.png
+./images/2022-12-04 Bjenberg 02-frame3241.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1752.png
+./images/2022-12-04 Bjenberg 02-frame2300.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1629.png
+./images/2022-12-04 Bjenberg 02-frame1882.png
+./images/2022-12-04 Bjenberg 02-frame3815.png
+./images/2022-12-04 Bjenberg 02-frame0005.png
+./images/2022-12-04 Bjenberg 02-frame1065.png
+./images/2022-12-04 Bjenberg 02-frame0522.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001710.png
+./images/2022-12-04 Bjenberg 02-frame4962.png
+./images/2022-12-04 Bjenberg 02-frame0198.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000453.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000547.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0106.png
+./images/2022-12-04 Bjenberg 02-frame1995.png
+./images/2022-12-04 Bjenberg 02-frame1923.png
+./images/2022-12-03 Nyland 01_stabilized-frame0560.png
+./images/2022-12-03 Nyland 01_stabilized-frame1432.png
+./images/2022-12-03 Nyland 01_stabilized-frame0359.png
+./images/2022-12-04 Bjenberg 02-frame3618.png
+./images/2022-12-04 Bjenberg 02-frame0509.png
+./images/2022-12-04 Bjenberg 02-frame2321.png
+./images/2022-12-04 Bjenberg 02-frame3509.png
+./images/2022-12-03 Nyland 01_stabilized-frame0761.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1968.png
+./images/2022-12-04 Bjenberg 02-frame1074.png
+./images/2022-12-04 Bjenberg 02-frame3103.png
+./images/2022-12-03 Nyland 01_stabilized-frame2097.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0299.png
+./images/2022-12-03 Nyland 01_stabilized-frame2107.png
+./images/2022-12-04 Bjenberg 02-frame3875.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000450.png
+./images/2022-12-04 Bjenberg 02-frame2149.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000061.png
+./images/2022-12-04 Bjenberg 02-frame2603.png
+./images/2022-12-04 Bjenberg 02-frame1611.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001279.png
+./images/2022-12-04 Bjenberg 02-frame1316.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001615.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001665.png
+./images/2022-12-04 Bjenberg 02-frame1435.png
+./images/2022-12-04 Bjenberg 02-frame0006.png
+./images/2022-12-03 Nyland 01_stabilized-frame0634.png
+./images/2022-12-03 Nyland 01_stabilized-frame1428.png
+./images/2022-12-03 Nyland 01_stabilized-frame1183.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2163.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1924.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1361.png
+./images/2022-12-04 Bjenberg 02-frame1471.png
+./images/2022-12-03 Nyland 01_stabilized-frame2210.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2398.png
+./images/2022-12-03 Nyland 01_stabilized-frame1726.png
+./images/2022-12-04 Bjenberg 02-frame1944.png
+./images/2022-12-03 Nyland 01_stabilized-frame1548.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0981.png
+./images/2022-12-04 Bjenberg 02-frame4570.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2390.png
+./images/2022-12-04 Bjenberg 02-frame4975.png
+./images/2022-12-04 Bjenberg 02-frame3093.png
+./images/2022-12-04 Bjenberg 02-frame4154.png
+./images/2022-12-03 Nyland 01_stabilized-frame1352.png
+./images/2022-12-04 Bjenberg 02-frame4062.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001029.png
+./images/2022-12-04 Bjenberg 02-frame2123.png
+./images/2022-12-04 Bjenberg 02-frame3193.png
+./images/2022-12-04 Bjenberg 02-frame0314.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000892.png
+./images/2022-12-04 Bjenberg 02-frame2095.png
+./images/2022-12-04 Bjenberg 02-frame0264.png
+./images/2022-12-04 Bjenberg 02-frame2461.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001277.png
+./images/2022-12-04 Bjenberg 02-frame4883.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1579.png
+./images/2022-12-03 Nyland 01_stabilized-frame1809.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000561.png
+./images/2022-12-03 Nyland 01_stabilized-frame2495.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0728.png
+./images/2022-12-04 Bjenberg 02-frame0215.png
+./images/2022-12-03 Nyland 01_stabilized-frame1108.png
+./images/2022-12-03 Nyland 01_stabilized-frame1359.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001255.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1317.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2301.png
+./images/2022-12-04 Bjenberg 02-frame1273.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2256.png
+./images/2022-12-03 Nyland 01_stabilized-frame0674.png
+./images/2022-12-03 Nyland 01_stabilized-frame1799.png
+./images/2022-12-04 Bjenberg 02-frame0139.png
+./images/2022-12-04 Bjenberg 02-frame0341.png
+./images/2022-12-04 Bjenberg 02-frame2655.png
+./images/2022-12-04 Bjenberg 02-frame4596.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000493.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000922.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001515.png
+./images/2022-12-03 Nyland 01_stabilized-frame0820.png
+./images/2022-12-04 Bjenberg 02-frame2720.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1130.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1091.png
+./images/2022-12-04 Bjenberg 02-frame2455.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001322.png
+./images/2022-12-04 Bjenberg 02-frame3065.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0021.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1583.png
+./images/2022-12-03 Nyland 01_stabilized-frame1332.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0289.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000100.png
+./images/2022-12-04 Bjenberg 02-frame0074.png
+./images/2022-12-04 Bjenberg 02-frame1807.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2021.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001548.png
+./images/2022-12-04 Bjenberg 02-frame0554.png
+./images/2022-12-04 Bjenberg 02-frame1947.png
+./images/2022-12-04 Bjenberg 02-frame4261.png
+./images/2022-12-04 Bjenberg 02-frame2571.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001891.png
+./images/2022-12-04 Bjenberg 02-frame5094.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001713.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1161.png
+./images/2022-12-04 Bjenberg 02-frame0700.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1831.png
+./images/2022-12-04 Bjenberg 02-frame0242.png
+./images/2022-12-03 Nyland 01_stabilized-frame1469.png
+./images/2022-12-04 Bjenberg 02-frame3574.png
+./images/2022-12-04 Bjenberg 02-frame0026.png
+./images/2022-12-03 Nyland 01_stabilized-frame1003.png
+./images/2022-12-04 Bjenberg 02-frame1900.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001265.png
+./images/2022-12-04 Bjenberg 02-frame0251.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001004.png
+./images/2022-12-04 Bjenberg 02-frame3482.png
+./images/2022-12-03 Nyland 01_stabilized-frame0555.png
+./images/2022-12-04 Bjenberg 02-frame3888.png
+./images/2022-12-04 Bjenberg 02-frame3503.png
+./images/2022-12-04 Bjenberg 02-frame1932.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001802.png
+./images/2022-12-04 Bjenberg 02-frame3246.png
+./images/2022-12-04 Bjenberg 02-frame1631.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1973.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1945.png
+./images/2022-12-03 Nyland 01_stabilized-frame0991.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1021.png
+./images/2022-12-03 Nyland 01_stabilized-frame2004.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001590.png
+./images/2022-12-03 Nyland 01_stabilized-frame1367.png
+./images/2022-12-04 Bjenberg 02-frame2227.png
+./images/2022-12-04 Bjenberg 02-frame2391.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1679.png
+./images/2022-12-04 Bjenberg 02-frame1088.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2124.png
+./images/2022-12-04 Bjenberg 02-frame3510.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000065.png
+./images/2022-12-04 Bjenberg 02-frame4358.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2395.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000155.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001121.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0978.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2044.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0692.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2263.png
+./images/2022-12-04 Bjenberg 02-frame0969.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000686.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000517.png
+./images/2022-12-04 Bjenberg 02-frame4967.png
+./images/2022-12-04 Bjenberg 02-frame4123.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0696.png
+./images/2022-12-04 Bjenberg 02-frame3701.png
+./images/2022-12-04 Bjenberg 02-frame4860.png
+./images/2022-12-03 Nyland 01_stabilized-frame0984.png
+./images/2022-12-04 Bjenberg 02-frame1257.png
+./images/2022-12-04 Bjenberg 02-frame2846.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2359.png
+./images/2022-12-04 Bjenberg 02-frame3705.png
+./images/2022-12-03 Nyland 01_stabilized-frame1460.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001777.png
+./images/2022-12-03 Nyland 01_stabilized-frame1546.png
+./images/2022-12-04 Bjenberg 02-frame0756.png
+./images/2022-12-03 Nyland 01_stabilized-frame1699.png
+./images/2022-12-04 Bjenberg 02-frame0376.png
+./images/2022-12-04 Bjenberg 02-frame3837.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000027.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2232.png
+./images/2022-12-04 Bjenberg 02-frame2337.png
+./images/2022-12-04 Bjenberg 02-frame3587.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000524.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001396.png
+./images/2022-12-04 Bjenberg 02-frame4999.png
+./images/2022-12-04 Bjenberg 02-frame2025.png
+./images/2022-12-04 Bjenberg 02-frame1686.png
+./images/2022-12-04 Bjenberg 02-frame4891.png
+./images/2022-12-04 Bjenberg 02-frame3743.png
+./images/2022-12-04 Bjenberg 02-frame4866.png
+./images/2022-12-03 Nyland 01_stabilized-frame0544.png
+./images/2022-12-04 Bjenberg 02-frame0263.png
+./images/2022-12-04 Bjenberg 02-frame0982.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000934.png
+./images/2022-12-04 Bjenberg 02-frame2712.png
+./images/2022-12-04 Bjenberg 02-frame1017.png
+./images/2022-12-04 Bjenberg 02-frame3841.png
+./images/2022-12-03 Nyland 01_stabilized-frame1923.png
+./images/2022-12-04 Bjenberg 02-frame1875.png
+./images/2022-12-04 Bjenberg 02-frame0000.png
+./images/2022-12-04 Bjenberg 02-frame3794.png
+./images/2022-12-04 Bjenberg 02-frame3033.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001617.png
+./images/2022-12-04 Bjenberg 02-frame5017.png
+./images/2022-12-03 Nyland 01_stabilized-frame1915.png
+./images/2022-12-04 Bjenberg 02-frame3030.png
+./images/2022-12-03 Nyland 01_stabilized-frame0836.png
+./images/2022-12-04 Bjenberg 02-frame4574.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0284.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2432.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1324.png
+./images/2022-12-03 Nyland 01_stabilized-frame0796.png
+./images/2022-12-04 Bjenberg 02-frame1873.png
+./images/2022-12-04 Bjenberg 02-frame1169.png
+./images/2022-12-04 Bjenberg 02-frame1603.png
+./images/2022-12-04 Bjenberg 02-frame2614.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1202.png
+./images/2022-12-03 Nyland 01_stabilized-frame1898.png
+./images/2022-12-04 Bjenberg 02-frame2750.png
+./images/2022-12-04 Bjenberg 02-frame4213.png
+./images/2022-12-04 Bjenberg 02-frame2430.png
+./images/2022-12-04 Bjenberg 02-frame4306.png
+./images/2022-12-04 Bjenberg 02-frame0337.png
+./images/2022-12-04 Bjenberg 02-frame3528.png
+./images/2022-12-04 Bjenberg 02-frame2830.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2363.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000938.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000701.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1918.png
+./images/2022-12-04 Bjenberg 02-frame4872.png
+./images/2022-12-04 Bjenberg 02-frame2561.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1588.png
+./images/2022-12-03 Nyland 01_stabilized-frame1131.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2406.png
+./images/2022-12-04 Bjenberg 02-frame1888.png
+./images/2022-12-04 Bjenberg 02-frame3819.png
+./images/2022-12-03 Nyland 01_stabilized-frame2431.png
+./images/2022-12-04 Bjenberg 02-frame4597.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1694.png
+./images/2022-12-04 Bjenberg 02-frame2463.png
+./images/2022-12-04 Bjenberg 02-frame4887.png
+./images/2022-12-04 Bjenberg 02-frame1090.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2286.png
+./images/2022-12-04 Bjenberg 02-frame1482.png
+./images/2022-12-04 Bjenberg 02-frame0778.png
+./images/2022-12-04 Bjenberg 02-frame1284.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0777.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1544.png
+./images/2022-12-03 Nyland 01_stabilized-frame0728.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0097.png
+./images/2022-12-04 Bjenberg 02-frame1477.png
+./images/2022-12-04 Bjenberg 02-frame3709.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2305.png
+./images/2022-12-04 Bjenberg 02-frame4317.png
+./images/2022-12-04 Bjenberg 02-frame2851.png
+./images/2022-12-04 Bjenberg 02-frame3854.png
+./images/2022-12-04 Bjenberg 02-frame4980.png
+./images/2022-12-03 Nyland 01_stabilized-frame0632.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1543.png
+./images/2022-12-04 Bjenberg 02-frame1156.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1795.png
+./images/2022-12-04 Bjenberg 02-frame1089.png
+./images/2022-12-04 Bjenberg 02-frame3501.png
+./images/2022-12-04 Bjenberg 02-frame3787.png
+./images/2022-12-04 Bjenberg 02-frame3669.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000007.png
+./images/2022-12-04 Bjenberg 02-frame1648.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001743.png
+./images/2022-12-04 Bjenberg 02-frame3220.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001521.png
+./images/2022-12-03 Nyland 01_stabilized-frame0108.png
+./images/2022-12-03 Nyland 01_stabilized-frame1760.png
+./images/2022-12-04 Bjenberg 02-frame1601.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1618.png
+./images/2022-12-04 Bjenberg 02-frame2515.png
+./images/2022-12-04 Bjenberg 02-frame3232.png
+./images/2022-12-04 Bjenberg 02-frame0896.png
+./images/2022-12-04 Bjenberg 02-frame4592.png
+./images/2022-12-03 Nyland 01_stabilized-frame0358.png
+./images/2022-12-04 Bjenberg 02-frame3183.png
+./images/2022-12-03 Nyland 01_stabilized-frame1169.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame002002.png
+./images/2022-12-04 Bjenberg 02-frame4353.png
+./images/2022-12-03 Nyland 01_stabilized-frame0142.png
+./images/2022-12-04 Bjenberg 02-frame4116.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2297.png
+./images/2022-12-04 Bjenberg 02-frame0638.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2397.png
+./images/2022-12-04 Bjenberg 02-frame2143.png
+./images/2022-12-04 Bjenberg 02-frame5016.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000991.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001046.png
+./images/2022-12-04 Bjenberg 02-frame1443.png
+./images/2022-12-03 Nyland 01_stabilized-frame1956.png
+./images/2022-12-03 Nyland 01_stabilized-frame1549.png
+./images/2022-12-03 Nyland 01_stabilized-frame1099.png
+./images/2022-12-03 Nyland 01_stabilized-frame1965.png
+./images/2022-12-04 Bjenberg 02-frame2119.png
+./images/2022-12-04 Bjenberg 02-frame4253.png
+./images/2022-12-04 Bjenberg 02-frame0049.png
+./images/2022-12-04 Bjenberg 02-frame4586.png
+./images/2022-12-04 Bjenberg 02-frame1855.png
+./images/2022-12-03 Nyland 01_stabilized-frame1798.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1345.png
+./images/2022-12-04 Bjenberg 02-frame2841.png
+./images/2022-12-03 Nyland 01_stabilized-frame1195.png
+./images/2022-12-04 Bjenberg 02-frame4884.png
+./images/2022-12-04 Bjenberg 02-frame4995.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1206.png
+./images/2022-12-04 Bjenberg 02-frame4634.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1528.png
+./images/2022-12-04 Bjenberg 02-frame2341.png
+./images/2022-12-04 Bjenberg 02-frame4899.png
+./images/2022-12-04 Bjenberg 02-frame4579.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1508.png
+./images/2022-12-03 Nyland 01_stabilized-frame1123.png
+./images/2022-12-03 Nyland 01_stabilized-frame2347.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1729.png
+./images/2022-12-03 Nyland 01_stabilized-frame2413.png
+./images/2022-12-04 Bjenberg 02-frame2277.png
+./images/2022-12-03 Nyland 01_stabilized-frame0360.png
+./images/2022-12-04 Bjenberg 02-frame3253.png
+./images/2022-12-04 Bjenberg 02-frame1587.png
+./images/2022-12-04 Bjenberg 02-frame1086.png
+./images/2022-12-03 Nyland 01_stabilized-frame1746.png
+./images/2022-12-03 Nyland 01_stabilized-frame2249.png
+./images/2022-12-04 Bjenberg 02-frame0329.png
+./images/2022-12-04 Bjenberg 02-frame1579.png
+./images/2022-12-04 Bjenberg 02-frame0216.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1834.png
+./images/2022-12-04 Bjenberg 02-frame2216.png
+./images/2022-12-04 Bjenberg 02-frame5085.png
+./images/2022-12-04 Bjenberg 02-frame0104.png
+./images/2022-12-04 Bjenberg 02-frame1899.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0287.png
+./images/2022-12-04 Bjenberg 02-frame2253.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1818.png
+./images/2022-12-04 Bjenberg 02-frame0571.png
+./images/2022-12-04 Bjenberg 02-frame1296.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001381.png
+./images/2022-12-04 Bjenberg 02-frame2323.png
+./images/2022-12-04 Bjenberg 02-frame3173.png
+./images/2022-12-03 Nyland 01_stabilized-frame2006.png
+./images/2022-12-04 Bjenberg 02-frame1083.png
+./images/2022-12-04 Bjenberg 02-frame0241.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1056.png
+./images/2022-12-04 Bjenberg 02-frame2443.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000864.png
+./images/2022-12-04 Bjenberg 02-frame2168.png
+./images/2022-12-04 Bjenberg 02-frame1447.png
+./images/2022-12-04 Bjenberg 02-frame5044.png
+./images/2022-12-03 Nyland 01_stabilized-frame0973.png
+./images/2022-12-04 Bjenberg 02-frame1063.png
+./images/2022-12-03 Nyland 01_stabilized-frame1154.png
+./images/2022-12-04 Bjenberg 02-frame2628.png
+./images/2022-12-04 Bjenberg 02-frame2150.png
+./images/2022-12-04 Bjenberg 02-frame0633.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1850.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000982.png
+./images/2022-12-04 Bjenberg 02-frame2166.png
+./images/2022-12-04 Bjenberg 02-frame2390.png
+./images/2022-12-04 Bjenberg 02-frame5121.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001025.png
+./images/2022-12-04 Bjenberg 02-frame4608.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0310.png
+./images/2022-12-04 Bjenberg 02-frame4296.png
+./images/2022-12-04 Bjenberg 02-frame0191.png
+./images/2022-12-04 Bjenberg 02-frame1726.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001041.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000184.png
+./images/2022-12-04 Bjenberg 02-frame2732.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2393.png
+./images/2022-12-04 Bjenberg 02-frame2662.png
+./images/2022-12-04 Bjenberg 02-frame2359.png
+./images/2022-12-03 Nyland 01_stabilized-frame1114.png
+./images/2022-12-03 Nyland 01_stabilized-frame1128.png
+./images/2022-12-04 Bjenberg 02-frame0730.png
+./images/2022-12-04 Bjenberg 02-frame2036.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000990.png
+./images/2022-12-04 Bjenberg 02-frame2127.png
+./images/2022-12-04 Bjenberg 02-frame2158.png
+./images/2022-12-04 Bjenberg 02-frame1740.png
+./images/2022-12-04 Bjenberg 02-frame0197.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2045.png
+./images/2022-12-04 Bjenberg 02-frame4627.png
+./images/2022-12-04 Bjenberg 02-frame1659.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001987.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001658.png
+./images/2022-12-03 Nyland 01_stabilized-frame0123.png
+./images/2022-12-04 Bjenberg 02-frame1961.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0995.png
+./images/2022-12-04 Bjenberg 02-frame3558.png
+./images/2022-12-04 Bjenberg 02-frame3230.png
+./images/2022-12-03 Nyland 01_stabilized-frame1194.png
+./images/2022-12-03 Nyland 01_stabilized-frame1081.png
+./images/2022-12-04 Bjenberg 02-frame3067.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1967.png
+./images/2022-12-04 Bjenberg 02-frame1671.png
+./images/2022-12-04 Bjenberg 02-frame3090.png
+./images/2022-12-04 Bjenberg 02-frame2283.png
+./images/2022-12-04 Bjenberg 02-frame0725.png
+./images/2022-12-03 Nyland 01_stabilized-frame0614.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000028.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1134.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001570.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2184.png
+./images/2022-12-03 Nyland 01_stabilized-frame2403.png
+./images/2022-12-03 Nyland 01_stabilized-frame0136.png
+./images/2022-12-04 Bjenberg 02-frame2812.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000691.png
+./images/2022-12-04 Bjenberg 02-frame2811.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0989.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000029.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000889.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0704.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001015.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1199.png
+./images/2022-12-04 Bjenberg 02-frame2249.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001111.png
+./images/2022-12-04 Bjenberg 02-frame1928.png
+./images/2022-12-03 Nyland 01_stabilized-frame1203.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000149.png
+./images/2022-12-03 Nyland 01_stabilized-frame1168.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1305.png
+./images/2022-12-04 Bjenberg 02-frame0033.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001456.png
+./images/2022-12-04 Bjenberg 02-frame3757.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2041.png
+./images/2022-12-03 Nyland 01_stabilized-frame0346.png
+./images/2022-12-04 Bjenberg 02-frame1078.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2276.png
+./images/2022-12-04 Bjenberg 02-frame0510.png
+./images/2022-12-04 Bjenberg 02-frame1465.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000097.png
+./images/2022-12-03 Nyland 01_stabilized-frame0735.png
+./images/2022-12-04 Bjenberg 02-frame0709.png
+./images/2022-12-03 Nyland 01_stabilized-frame0326.png
+./images/2022-12-04 Bjenberg 02-frame3526.png
+./images/2022-12-04 Bjenberg 02-frame4578.png
+./images/2022-12-04 Bjenberg 02-frame0518.png
+./images/2022-12-04 Bjenberg 02-frame2231.png
+./images/2022-12-04 Bjenberg 02-frame2458.png
+./images/2022-12-03 Nyland 01_stabilized-frame0565.png
+./images/2022-12-04 Bjenberg 02-frame2056.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0019.png
+./images/2022-12-04 Bjenberg 02-frame2299.png
+./images/2022-12-04 Bjenberg 02-frame4978.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1519.png
+./images/2022-12-03 Nyland 01_stabilized-frame2022.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001351.png
+./images/2022-12-04 Bjenberg 02-frame5022.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001957.png
+./images/2022-12-04 Bjenberg 02-frame1997.png
+./images/2022-12-03 Nyland 01_stabilized-frame1877.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2383.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001692.png
+./images/2022-12-04 Bjenberg 02-frame4307.png
+./images/2022-12-04 Bjenberg 02-frame1286.png
+./images/2022-12-04 Bjenberg 02-frame2386.png
+./images/2022-12-04 Bjenberg 02-frame4944.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001426.png
+./images/2022-12-04 Bjenberg 02-frame2528.png
+./images/2022-12-03 Nyland 01_stabilized-frame1571.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0359.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001411.png
+./images/2022-12-04 Bjenberg 02-frame1892.png
+./images/2022-12-04 Bjenberg 02-frame1306.png
+./images/2022-12-04 Bjenberg 02-frame3711.png
+./images/2022-12-04 Bjenberg 02-frame3198.png
+./images/2022-12-04 Bjenberg 02-frame3051.png
+./images/2022-12-04 Bjenberg 02-frame5001.png
+./images/2022-12-04 Bjenberg 02-frame1657.png
+./images/2022-12-03 Nyland 01_stabilized-frame0140.png
+./images/2022-12-04 Bjenberg 02-frame2466.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000060.png
+./images/2022-12-03 Nyland 01_stabilized-frame2214.png
+./images/2022-12-04 Bjenberg 02-frame3484.png
+./images/2022-12-03 Nyland 01_stabilized-frame1540.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2278.png
+./images/2022-12-04 Bjenberg 02-frame4145.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2435.png
+./images/2022-12-04 Bjenberg 02-frame3781.png
+./images/2022-12-04 Bjenberg 02-frame4624.png
+./images/2022-12-03 Nyland 01_stabilized-frame2512.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2070.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0753.png
+./images/2022-12-04 Bjenberg 02-frame3536.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001299.png
+./images/2022-12-04 Bjenberg 02-frame1850.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1001.png
+./images/2022-12-04 Bjenberg 02-frame5019.png
+./images/2022-12-03 Nyland 01_stabilized-frame1882.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0047.png
+./images/2022-12-04 Bjenberg 02-frame0343.png
+./images/2022-12-04 Bjenberg 02-frame2000.png
+./images/2022-12-04 Bjenberg 02-frame3010.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1616.png
+./images/2022-12-03 Nyland 01_stabilized-frame2415.png
+./images/2022-12-04 Bjenberg 02-frame0566.png
+./images/2022-12-04 Bjenberg 02-frame2064.png
+./images/2022-12-04 Bjenberg 02-frame2120.png
+./images/2022-12-04 Bjenberg 02-frame0212.png
+./images/2022-12-04 Bjenberg 02-frame1817.png
+./images/2022-12-04 Bjenberg 02-frame2616.png
+./images/2022-12-03 Nyland 01_stabilized-frame0646.png
+./images/2022-12-04 Bjenberg 02-frame2278.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2259.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1783.png
+./images/2022-12-04 Bjenberg 02-frame2225.png
+./images/2022-12-04 Bjenberg 02-frame4218.png
+./images/2022-12-04 Bjenberg 02-frame3629.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000101.png
+./images/2022-12-04 Bjenberg 02-frame4333.png
+./images/2022-12-04 Bjenberg 02-frame5040.png
+./images/2022-12-04 Bjenberg 02-frame1047.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0020.png
+./images/2022-12-04 Bjenberg 02-frame3298.png
+./images/2022-12-04 Bjenberg 02-frame2020.png
+./images/2022-12-04 Bjenberg 02-frame3727.png
+./images/2022-12-04 Bjenberg 02-frame1004.png
+./images/2022-12-03 Nyland 01_stabilized-frame0848.png
+./images/2022-12-03 Nyland 01_stabilized-frame1960.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1677.png
+./images/2022-12-04 Bjenberg 02-frame5126.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1003.png
+./images/2022-12-04 Bjenberg 02-frame3860.png
+./images/2022-12-04 Bjenberg 02-frame5018.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1541.png
+./images/2022-12-03 Nyland 01_stabilized-frame1731.png
+./images/2022-12-04 Bjenberg 02-frame3782.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0078.png
+./images/2022-12-04 Bjenberg 02-frame5054.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000474.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2357.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001013.png
+./images/2022-12-04 Bjenberg 02-frame0819.png
+./images/2022-12-04 Bjenberg 02-frame2176.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1607.png
+./images/2022-12-04 Bjenberg 02-frame2363.png
+./images/2022-12-04 Bjenberg 02-frame5142.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001280.png
+./images/2022-12-03 Nyland 01_stabilized-frame0714.png
+./images/2022-12-04 Bjenberg 02-frame2316.png
+./images/2022-12-03 Nyland 01_stabilized-frame2099.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1510.png
+./images/2022-12-04 Bjenberg 02-frame2617.png
+./images/2022-12-04 Bjenberg 02-frame2827.png
+./images/2022-12-04 Bjenberg 02-frame1114.png
+./images/2022-12-04 Bjenberg 02-frame3655.png
+./images/2022-12-04 Bjenberg 02-frame5068.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1342.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1930.png
+./images/2022-12-04 Bjenberg 02-frame1845.png
+./images/2022-12-04 Bjenberg 02-frame2789.png
+./images/2022-12-04 Bjenberg 02-frame2986.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001268.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1513.png
+./images/2022-12-04 Bjenberg 02-frame0572.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001579.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1201.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1868.png
+./images/2022-12-04 Bjenberg 02-frame3872.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001915.png
+./images/2022-12-03 Nyland 01_stabilized-frame0328.png
+./images/2022-12-04 Bjenberg 02-frame2597.png
+./images/2022-12-03 Nyland 01_stabilized-frame0333.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000181.png
+./images/2022-12-04 Bjenberg 02-frame2494.png
+./images/2022-12-04 Bjenberg 02-frame1441.png
+./images/2022-12-04 Bjenberg 02-frame4612.png
+./images/2022-12-04 Bjenberg 02-frame3524.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1499.png
+./images/2022-12-04 Bjenberg 02-frame0237.png
+./images/2022-12-04 Bjenberg 02-frame2303.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000201.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0327.png
+./images/2022-12-04 Bjenberg 02-frame2396.png
+./images/2022-12-04 Bjenberg 02-frame3112.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001064.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001528.png
+./images/2022-12-04 Bjenberg 02-frame3092.png
+./images/2022-12-03 Nyland 01_stabilized-frame0656.png
+./images/2022-12-04 Bjenberg 02-frame2623.png
+./images/2022-12-03 Nyland 01_stabilized-frame2098.png
+./images/2022-12-04 Bjenberg 02-frame2377.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1093.png
+./images/2022-12-04 Bjenberg 02-frame2985.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001036.png
+./images/2022-12-04 Bjenberg 02-frame2244.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1644.png
+./images/2022-12-04 Bjenberg 02-frame4049.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000846.png
+./images/2022-12-04 Bjenberg 02-frame5073.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000030.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001301.png
+./images/2022-12-04 Bjenberg 02-frame3244.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1702.png
+./images/2022-12-03 Nyland 01_stabilized-frame0548.png
+./images/2022-12-04 Bjenberg 02-frame3783.png
+./images/2022-12-04 Bjenberg 02-frame0061.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001792.png
+./images/2022-12-04 Bjenberg 02-frame0783.png
+./images/2022-12-04 Bjenberg 02-frame4038.png
+./images/2022-12-04 Bjenberg 02-frame0020.png
+./images/2022-12-04 Bjenberg 02-frame0224.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001282.png
+./images/2022-12-04 Bjenberg 02-frame0757.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001578.png
+./images/2022-12-03 Nyland 01_stabilized-frame0774.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000971.png
+./images/2022-12-03 Nyland 01_stabilized-frame1126.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000945.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2130.png
+./images/2022-12-03 Nyland 01_stabilized-frame2511.png
+./images/2022-12-04 Bjenberg 02-frame3124.png
+./images/2022-12-04 Bjenberg 02-frame1958.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0401.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1341.png
+./images/2022-12-04 Bjenberg 02-frame1170.png
+./images/2022-12-04 Bjenberg 02-frame0331.png
+./images/2022-12-04 Bjenberg 02-frame0632.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0285.png
+./images/2022-12-03 Nyland 01_stabilized-frame1461.png
+./images/2022-12-04 Bjenberg 02-frame4177.png
+./images/2022-12-04 Bjenberg 02-frame4343.png
+./images/2022-12-04 Bjenberg 02-frame2347.png
+./images/2022-12-03 Nyland 01_stabilized-frame1082.png
+./images/2022-12-04 Bjenberg 02-frame2425.png
+./images/2022-12-03 Nyland 01_stabilized-frame0132.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1719.png
+./images/2022-12-04 Bjenberg 02-frame0538.png
+./images/2022-12-04 Bjenberg 02-frame3231.png
+./images/2022-12-03 Nyland 01_stabilized-frame0648.png
+./images/2022-12-04 Bjenberg 02-frame4015.png
+./images/2022-12-03 Nyland 01_stabilized-frame0764.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0982.png
+./images/2022-12-04 Bjenberg 02-frame0738.png
+./images/2022-12-04 Bjenberg 02-frame2562.png
+./images/2022-12-04 Bjenberg 02-frame4911.png
+./images/2022-12-03 Nyland 01_stabilized-frame0684.png
+./images/2022-12-03 Nyland 01_stabilized-frame1936.png
+./images/2022-12-04 Bjenberg 02-frame3519.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2309.png
+./images/2022-12-04 Bjenberg 02-frame2612.png
+./images/2022-12-04 Bjenberg 02-frame1062.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001796.png
+./images/2022-12-04 Bjenberg 02-frame2487.png
+./images/2022-12-04 Bjenberg 02-frame4264.png
+./images/2022-12-03 Nyland 01_stabilized-frame1459.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000206.png
+./images/2022-12-04 Bjenberg 02-frame3751.png
+./images/2022-12-03 Nyland 01_stabilized-frame1907.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000905.png
+./images/2022-12-04 Bjenberg 02-frame0124.png
+./images/2022-12-04 Bjenberg 02-frame2523.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1496.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1578.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1042.png
+./images/2022-12-03 Nyland 01_stabilized-frame0819.png
+./images/2022-12-04 Bjenberg 02-frame1884.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1319.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000475.png
+./images/2022-12-04 Bjenberg 02-frame0956.png
+./images/2022-12-03 Nyland 01_stabilized-frame0956.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001818.png
+./images/2022-12-03 Nyland 01_stabilized-frame0015.png
+./images/2022-12-04 Bjenberg 02-frame1451.png
+./images/2022-12-03 Nyland 01_stabilized-frame1569.png
+./images/2022-12-04 Bjenberg 02-frame0556.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2098.png
+./images/2022-12-04 Bjenberg 02-frame4300.png
+./images/2022-12-04 Bjenberg 02-frame4916.png
+./images/2022-12-03 Nyland 01_stabilized-frame0849.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000457.png
+./images/2022-12-04 Bjenberg 02-frame2388.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001508.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1952.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001980.png
+./images/2022-12-04 Bjenberg 02-frame4542.png
+./images/2022-12-04 Bjenberg 02-frame4287.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000932.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001014.png
+./images/2022-12-04 Bjenberg 02-frame4069.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1154.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001918.png
+./images/2022-12-03 Nyland 01_stabilized-frame1938.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001990.png
+./images/2022-12-04 Bjenberg 02-frame4044.png
+./images/2022-12-04 Bjenberg 02-frame3011.png
+./images/2022-12-04 Bjenberg 02-frame3522.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0096.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001415.png
+./images/2022-12-04 Bjenberg 02-frame3658.png
+./images/2022-12-04 Bjenberg 02-frame1018.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1828.png
+./images/2022-12-04 Bjenberg 02-frame0310.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001113.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1565.png
+./images/2022-12-04 Bjenberg 02-frame0117.png
+./images/2022-12-04 Bjenberg 02-frame0472.png
+./images/2022-12-04 Bjenberg 02-frame0259.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001583.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001654.png
+./images/2022-12-04 Bjenberg 02-frame2549.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0001.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001785.png
+./images/2022-12-04 Bjenberg 02-frame4983.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001048.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1728.png
+./images/2022-12-04 Bjenberg 02-frame1622.png
+./images/2022-12-04 Bjenberg 02-frame4299.png
+./images/2022-12-04 Bjenberg 02-frame0293.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000471.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000068.png
+./images/2022-12-04 Bjenberg 02-frame3637.png
+./images/2022-12-04 Bjenberg 02-frame3584.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0735.png
+./images/2022-12-04 Bjenberg 02-frame0231.png
+./images/2022-12-04 Bjenberg 02-frame2214.png
+./images/2022-12-04 Bjenberg 02-frame1775.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1556.png
+./images/2022-12-04 Bjenberg 02-frame3502.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001295.png
+./images/2022-12-04 Bjenberg 02-frame2309.png
+./images/2022-12-04 Bjenberg 02-frame1757.png
+./images/2022-12-04 Bjenberg 02-frame3893.png
+./images/2022-12-04 Bjenberg 02-frame2199.png
+./images/2022-12-03 Nyland 01_stabilized-frame0351.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1786.png
+./images/2022-12-04 Bjenberg 02-frame2054.png
+./images/2022-12-04 Bjenberg 02-frame3121.png
+./images/2022-12-04 Bjenberg 02-frame0870.png
+./images/2022-12-03 Nyland 01_stabilized-frame2502.png
+./images/2022-12-04 Bjenberg 02-frame2785.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001412.png
+./images/2022-12-04 Bjenberg 02-frame3644.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001318.png
+./images/2022-12-04 Bjenberg 02-frame0549.png
+./images/2022-12-04 Bjenberg 02-frame1811.png
+./images/2022-12-04 Bjenberg 02-frame2796.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1351.png
+./images/2022-12-04 Bjenberg 02-frame2767.png
+./images/2022-12-03 Nyland 01_stabilized-frame2394.png
+./images/2022-12-04 Bjenberg 02-frame4102.png
+./images/2022-12-04 Bjenberg 02-frame5059.png
+./images/2022-12-03 Nyland 01_stabilized-frame1754.png
+./images/2022-12-04 Bjenberg 02-frame4548.png
+./images/2022-12-04 Bjenberg 02-frame2784.png
+./images/2022-12-04 Bjenberg 02-frame4260.png
+./images/2022-12-04 Bjenberg 02-frame4236.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000674.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1080.png
+./images/2022-12-03 Nyland 01_stabilized-frame1373.png
+./images/2022-12-04 Bjenberg 02-frame0895.png
+./images/2022-12-03 Nyland 01_stabilized-frame2218.png
+./images/2022-12-03 Nyland 01_stabilized-frame0090.png
+./images/2022-12-04 Bjenberg 02-frame3544.png
+./images/2022-12-04 Bjenberg 02-frame4835.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001458.png
+./images/2022-12-04 Bjenberg 02-frame2808.png
+./images/2022-12-04 Bjenberg 02-frame1595.png
+./images/2022-12-03 Nyland 01_stabilized-frame1925.png
+./images/2022-12-04 Bjenberg 02-frame2676.png
+./images/2022-12-04 Bjenberg 02-frame0267.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1688.png
+./images/2022-12-04 Bjenberg 02-frame0765.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000727.png
+./images/2022-12-04 Bjenberg 02-frame3792.png
+./images/2022-12-04 Bjenberg 02-frame5009.png
+./images/2022-12-03 Nyland 01_stabilized-frame1113.png
+./images/2022-12-04 Bjenberg 02-frame0229.png
+./images/2022-12-04 Bjenberg 02-frame2170.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2095.png
+./images/2022-12-03 Nyland 01_stabilized-frame0737.png
+./images/2022-12-03 Nyland 01_stabilized-frame1815.png
+./images/2022-12-03 Nyland 01_stabilized-frame1888.png
+./images/2022-12-04 Bjenberg 02-frame3628.png
+./images/2022-12-04 Bjenberg 02-frame1627.png
+./images/2022-12-04 Bjenberg 02-frame1606.png
+./images/2022-12-04 Bjenberg 02-frame2779.png
+./images/2022-12-03 Nyland 01_stabilized-frame0556.png
+./images/2022-12-04 Bjenberg 02-frame0737.png
+./images/2022-12-04 Bjenberg 02-frame3477.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001470.png
+./images/2022-12-04 Bjenberg 02-frame0487.png
+./images/2022-12-04 Bjenberg 02-frame0785.png
+./images/2022-12-04 Bjenberg 02-frame3716.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001114.png
+./images/2022-12-04 Bjenberg 02-frame0044.png
+./images/2022-12-03 Nyland 01_stabilized-frame2226.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1156.png
+./images/2022-12-04 Bjenberg 02-frame4271.png
+./images/2022-12-04 Bjenberg 02-frame4575.png
+./images/2022-12-04 Bjenberg 02-frame3756.png
+./images/2022-12-04 Bjenberg 02-frame4625.png
+./images/2022-12-04 Bjenberg 02-frame3100.png
+./images/2022-12-03 Nyland 01_stabilized-frame0366.png
+./images/2022-12-04 Bjenberg 02-frame3007.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0086.png
+./images/2022-12-03 Nyland 01_stabilized-frame0094.png
+./images/2022-12-04 Bjenberg 02-frame3674.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1846.png
+./images/2022-12-04 Bjenberg 02-frame2196.png
+./images/2022-12-04 Bjenberg 02-frame0702.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1637.png
+./images/2022-12-04 Bjenberg 02-frame0482.png
+./images/2022-12-04 Bjenberg 02-frame0003.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000967.png
+./images/2022-12-04 Bjenberg 02-frame2538.png
+./images/2022-12-04 Bjenberg 02-frame1738.png
+./images/2022-12-04 Bjenberg 02-frame1861.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001711.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2306.png
+./images/2022-12-04 Bjenberg 02-frame2412.png
+./images/2022-12-03 Nyland 01_stabilized-frame1115.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0732.png
+./images/2022-12-04 Bjenberg 02-frame0167.png
+./images/2022-12-03 Nyland 01_stabilized-frame1009.png
+./images/2022-12-04 Bjenberg 02-frame0230.png
+./images/2022-12-03 Nyland 01_stabilized-frame2021.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001332.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000856.png
+./images/2022-12-03 Nyland 01_stabilized-frame0654.png
+./images/2022-12-04 Bjenberg 02-frame0478.png
+./images/2022-12-04 Bjenberg 02-frame1853.png
+./images/2022-12-04 Bjenberg 02-frame1491.png
+./images/2022-12-04 Bjenberg 02-frame1113.png
+./images/2022-12-04 Bjenberg 02-frame4583.png
+./images/2022-12-04 Bjenberg 02-frame3076.png
+./images/2022-12-03 Nyland 01_stabilized-frame1932.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001685.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000719.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2054.png
+./images/2022-12-04 Bjenberg 02-frame4010.png
+./images/2022-12-04 Bjenberg 02-frame2558.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001057.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1533.png
+./images/2022-12-04 Bjenberg 02-frame3143.png
+./images/2022-12-04 Bjenberg 02-frame0634.png
+./images/2022-12-04 Bjenberg 02-frame0922.png
+./images/2022-12-03 Nyland 01_stabilized-frame2351.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001331.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000746.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1676.png
+./images/2022-12-04 Bjenberg 02-frame0199.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0317.png
+./images/2022-12-04 Bjenberg 02-frame4208.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001388.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2288.png
+./images/2022-12-04 Bjenberg 02-frame3290.png
+./images/2022-12-04 Bjenberg 02-frame4267.png
+./images/2022-12-04 Bjenberg 02-frame0157.png
+./images/2022-12-04 Bjenberg 02-frame2208.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1931.png
+./images/2022-12-04 Bjenberg 02-frame4037.png
+./images/2022-12-04 Bjenberg 02-frame5012.png
+./images/2022-12-04 Bjenberg 02-frame3582.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1721.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001316.png
+./images/2022-12-04 Bjenberg 02-frame3499.png
+./images/2022-12-03 Nyland 01_stabilized-frame1807.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001575.png
+./images/2022-12-04 Bjenberg 02-frame2409.png
+./images/2022-12-04 Bjenberg 02-frame4067.png
+./images/2022-12-04 Bjenberg 02-frame4043.png
+./images/2022-12-03 Nyland 01_stabilized-frame0732.png
+./images/2022-12-04 Bjenberg 02-frame1821.png
+./images/2022-12-03 Nyland 01_stabilized-frame1573.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001811.png
+./images/2022-12-03 Nyland 01_stabilized-frame1880.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0997.png
+./images/2022-12-04 Bjenberg 02-frame1473.png
+./images/2022-12-04 Bjenberg 02-frame0668.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1327.png
+./images/2022-12-04 Bjenberg 02-frame3620.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001670.png
+./images/2022-12-04 Bjenberg 02-frame3284.png
+./images/2022-12-04 Bjenberg 02-frame0802.png
+./images/2022-12-04 Bjenberg 02-frame4534.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0024.png
+./images/2022-12-04 Bjenberg 02-frame4631.png
+./images/2022-12-04 Bjenberg 02-frame0811.png
+./images/2022-12-04 Bjenberg 02-frame2106.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2371.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0015.png
+./images/2022-12-04 Bjenberg 02-frame2345.png
+./images/2022-12-04 Bjenberg 02-frame3889.png
+./images/2022-12-03 Nyland 01_stabilized-frame0647.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000545.png
+./images/2022-12-03 Nyland 01_stabilized-frame0375.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2462.png
+./images/2022-12-04 Bjenberg 02-frame4587.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1353.png
+./images/2022-12-04 Bjenberg 02-frame1013.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1625.png
+./images/2022-12-04 Bjenberg 02-frame1261.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000857.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2396.png
+./images/2022-12-04 Bjenberg 02-frame2479.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000481.png
+./images/2022-12-04 Bjenberg 02-frame3068.png
+./images/2022-12-03 Nyland 01_stabilized-frame1189.png
+./images/2022-12-04 Bjenberg 02-frame2755.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1922.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2366.png
+./images/2022-12-03 Nyland 01_stabilized-frame0082.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1711.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000472.png
+./images/2022-12-04 Bjenberg 02-frame2840.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001357.png
+./images/2022-12-04 Bjenberg 02-frame0964.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1866.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0095.png
+./images/2022-12-04 Bjenberg 02-frame1951.png
+./images/2022-12-04 Bjenberg 02-frame4873.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1791.png
+./images/2022-12-04 Bjenberg 02-frame0153.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1723.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1359.png
+./images/2022-12-04 Bjenberg 02-frame5077.png
+./images/2022-12-04 Bjenberg 02-frame3471.png
+./images/2022-12-03 Nyland 01_stabilized-frame2487.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001689.png
+./images/2022-12-03 Nyland 01_stabilized-frame2010.png
+./images/2022-12-04 Bjenberg 02-frame4538.png
+./images/2022-12-04 Bjenberg 02-frame1747.png
+./images/2022-12-04 Bjenberg 02-frame0793.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1869.png
+./images/2022-12-04 Bjenberg 02-frame3099.png
+./images/2022-12-03 Nyland 01_stabilized-frame0715.png
+./images/2022-12-04 Bjenberg 02-frame0379.png
+./images/2022-12-04 Bjenberg 02-frame1820.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000997.png
+./images/2022-12-04 Bjenberg 02-frame4228.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001294.png
+./images/2022-12-04 Bjenberg 02-frame0132.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0013.png
+./images/2022-12-04 Bjenberg 02-frame3677.png
+./images/2022-12-03 Nyland 01_stabilized-frame0635.png
+./images/2022-12-04 Bjenberg 02-frame3508.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1642.png
+./images/2022-12-04 Bjenberg 02-frame3741.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0324.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1196.png
+./images/2022-12-03 Nyland 01_stabilized-frame0630.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0762.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000858.png
+./images/2022-12-04 Bjenberg 02-frame1846.png
+./images/2022-12-03 Nyland 01_stabilized-frame0101.png
+./images/2022-12-04 Bjenberg 02-frame0306.png
+./images/2022-12-04 Bjenberg 02-frame0872.png
+./images/2022-12-03 Nyland 01_stabilized-frame0547.png
+./images/2022-12-03 Nyland 01_stabilized-frame2239.png
+./images/2022-12-04 Bjenberg 02-frame3559.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0738.png
+./images/2022-12-03 Nyland 01_stabilized-frame0621.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1611.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000830.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001399.png
+./images/2022-12-04 Bjenberg 02-frame0999.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001702.png
+./images/2022-12-04 Bjenberg 02-frame1472.png
+./images/2022-12-03 Nyland 01_stabilized-frame1879.png
+./images/2022-12-04 Bjenberg 02-frame4861.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000995.png
+./images/2022-12-04 Bjenberg 02-frame3700.png
+./images/2022-12-04 Bjenberg 02-frame1886.png
+./images/2022-12-04 Bjenberg 02-frame5057.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1023.png
+./images/2022-12-03 Nyland 01_stabilized-frame0335.png
+./images/2022-12-04 Bjenberg 02-frame2792.png
+./images/2022-12-04 Bjenberg 02-frame1994.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001452.png
+./images/2022-12-04 Bjenberg 02-frame3239.png
+./images/2022-12-03 Nyland 01_stabilized-frame1878.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000903.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001620.png
+./images/2022-12-04 Bjenberg 02-frame3761.png
+./images/2022-12-04 Bjenberg 02-frame3012.png
+./images/2022-12-04 Bjenberg 02-frame3144.png
+./images/2022-12-04 Bjenberg 02-frame3197.png
+./images/2022-12-04 Bjenberg 02-frame2829.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1971.png
+./images/2022-12-03 Nyland 01_stabilized-frame0707.png
+./images/2022-12-04 Bjenberg 02-frame2520.png
+./images/2022-12-03 Nyland 01_stabilized-frame0807.png
+./images/2022-12-04 Bjenberg 02-frame3667.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1117.png
+./images/2022-12-04 Bjenberg 02-frame3188.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001353.png
+./images/2022-12-04 Bjenberg 02-frame0169.png
+./images/2022-12-04 Bjenberg 02-frame0364.png
+./images/2022-12-04 Bjenberg 02-frame4057.png
+./images/2022-12-04 Bjenberg 02-frame4180.png
+./images/2022-12-04 Bjenberg 02-frame0646.png
+./images/2022-12-04 Bjenberg 02-frame0035.png
+./images/2022-12-04 Bjenberg 02-frame4159.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1555.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1551.png
+./images/2022-12-04 Bjenberg 02-frame1097.png
+./images/2022-12-03 Nyland 01_stabilized-frame0710.png
+./images/2022-12-04 Bjenberg 02-frame0533.png
+./images/2022-12-04 Bjenberg 02-frame2272.png
+./images/2022-12-03 Nyland 01_stabilized-frame0008.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001628.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1664.png
+./images/2022-12-04 Bjenberg 02-frame3154.png
+./images/2022-12-04 Bjenberg 02-frame4904.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000555.png
+./images/2022-12-03 Nyland 01_stabilized-frame1096.png
+./images/2022-12-04 Bjenberg 02-frame1495.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001511.png
+./images/2022-12-04 Bjenberg 02-frame3059.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001720.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1563.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001667.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1624.png
+./images/2022-12-04 Bjenberg 02-frame5139.png
+./images/2022-12-04 Bjenberg 02-frame4553.png
+./images/2022-12-04 Bjenberg 02-frame0161.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2247.png
+./images/2022-12-04 Bjenberg 02-frame0885.png
+./images/2022-12-03 Nyland 01_stabilized-frame1895.png
+./images/2022-12-04 Bjenberg 02-frame2837.png
+./images/2022-12-04 Bjenberg 02-frame1956.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000895.png
+./images/2022-12-04 Bjenberg 02-frame0980.png
+./images/2022-12-03 Nyland 01_stabilized-frame1740.png
+./images/2022-12-03 Nyland 01_stabilized-frame2399.png
+./images/2022-12-04 Bjenberg 02-frame4281.png
+./images/2022-12-04 Bjenberg 02-frame3803.png
+./images/2022-12-04 Bjenberg 02-frame3221.png
+./images/2022-12-03 Nyland 01_stabilized-frame2205.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0033.png
+./images/2022-12-04 Bjenberg 02-frame3845.png
+./images/2022-12-04 Bjenberg 02-frame3505.png
+./images/2022-12-03 Nyland 01_stabilized-frame1537.png
+./images/2022-12-03 Nyland 01_stabilized-frame0781.png
+./images/2022-12-04 Bjenberg 02-frame3886.png
+./images/2022-12-04 Bjenberg 02-frame3270.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1502.png
+./images/2022-12-04 Bjenberg 02-frame3855.png
+./images/2022-12-04 Bjenberg 02-frame0774.png
+./images/2022-12-04 Bjenberg 02-frame3835.png
+./images/2022-12-04 Bjenberg 02-frame3623.png
+./images/2022-12-04 Bjenberg 02-frame1026.png
+./images/2022-12-04 Bjenberg 02-frame2476.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000187.png
+./images/2022-12-04 Bjenberg 02-frame1876.png
+./images/2022-12-04 Bjenberg 02-frame0498.png
+./images/2022-12-04 Bjenberg 02-frame2015.png
+./images/2022-12-04 Bjenberg 02-frame1954.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1631.png
+./images/2022-12-04 Bjenberg 02-frame4221.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000909.png
+./images/2022-12-04 Bjenberg 02-frame4572.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001640.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0697.png
+./images/2022-12-04 Bjenberg 02-frame5000.png
+./images/2022-12-04 Bjenberg 02-frame0180.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001425.png
+./images/2022-12-03 Nyland 01_stabilized-frame1563.png
+./images/2022-12-04 Bjenberg 02-frame2330.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000080.png
+./images/2022-12-04 Bjenberg 02-frame1008.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0085.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000826.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001677.png
+./images/2022-12-04 Bjenberg 02-frame4988.png
+./images/2022-12-04 Bjenberg 02-frame3702.png
+./images/2022-12-03 Nyland 01_stabilized-frame0689.png
+./images/2022-12-03 Nyland 01_stabilized-frame0355.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001926.png
+./images/2022-12-04 Bjenberg 02-frame0282.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2281.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001532.png
+./images/2022-12-04 Bjenberg 02-frame0766.png
+./images/2022-12-04 Bjenberg 02-frame1989.png
+./images/2022-12-04 Bjenberg 02-frame5052.png
+./images/2022-12-04 Bjenberg 02-frame4935.png
+./images/2022-12-04 Bjenberg 02-frame1093.png
+./images/2022-12-04 Bjenberg 02-frame4332.png
+./images/2022-12-04 Bjenberg 02-frame0913.png
+./images/2022-12-04 Bjenberg 02-frame2713.png
+./images/2022-12-04 Bjenberg 02-frame3891.png
+./images/2022-12-03 Nyland 01_stabilized-frame1724.png
+./images/2022-12-03 Nyland 01_stabilized-frame1872.png
+./images/2022-12-04 Bjenberg 02-frame3786.png
+./images/2022-12-04 Bjenberg 02-frame2207.png
+./images/2022-12-04 Bjenberg 02-frame2089.png
+./images/2022-12-04 Bjenberg 02-frame3139.png
+./images/2022-12-04 Bjenberg 02-frame1123.png
+./images/2022-12-04 Bjenberg 02-frame2314.png
+./images/2022-12-04 Bjenberg 02-frame4601.png
+./images/2022-12-04 Bjenberg 02-frame1988.png
+./images/2022-12-04 Bjenberg 02-frame0064.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001577.png
+./images/2022-12-03 Nyland 01_stabilized-frame2367.png
+./images/2022-12-04 Bjenberg 02-frame1755.png
+./images/2022-12-04 Bjenberg 02-frame5050.png
+./images/2022-12-04 Bjenberg 02-frame4867.png
+./images/2022-12-04 Bjenberg 02-frame1079.png
+./images/2022-12-04 Bjenberg 02-frame4998.png
+./images/2022-12-04 Bjenberg 02-frame2218.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2157.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001657.png
+./images/2022-12-04 Bjenberg 02-frame0989.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001912.png
+./images/2022-12-04 Bjenberg 02-frame3488.png
+./images/2022-12-04 Bjenberg 02-frame3053.png
+./images/2022-12-03 Nyland 01_stabilized-frame0723.png
+./images/2022-12-04 Bjenberg 02-frame5039.png
+./images/2022-12-04 Bjenberg 02-frame0931.png
+./images/2022-12-04 Bjenberg 02-frame0972.png
+./images/2022-12-03 Nyland 01_stabilized-frame0128.png
+./images/2022-12-04 Bjenberg 02-frame4966.png
+./images/2022-12-04 Bjenberg 02-frame3622.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1344.png
+./images/2022-12-04 Bjenberg 02-frame2608.png
+./images/2022-12-03 Nyland 01_stabilized-frame1933.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0740.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000045.png
+./images/2022-12-04 Bjenberg 02-frame1862.png
+./images/2022-12-04 Bjenberg 02-frame0040.png
+./images/2022-12-04 Bjenberg 02-frame1790.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1953.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2234.png
+./images/2022-12-04 Bjenberg 02-frame0631.png
+./images/2022-12-04 Bjenberg 02-frame0970.png
+./images/2022-12-04 Bjenberg 02-frame0561.png
+./images/2022-12-04 Bjenberg 02-frame1619.png
+./images/2022-12-04 Bjenberg 02-frame0363.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1577.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1876.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001718.png
+./images/2022-12-04 Bjenberg 02-frame3024.png
+./images/2022-12-04 Bjenberg 02-frame5131.png
+./images/2022-12-03 Nyland 01_stabilized-frame0754.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1010.png
+./images/2022-12-04 Bjenberg 02-frame1872.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001754.png
+./images/2022-12-03 Nyland 01_stabilized-frame0815.png
+./images/2022-12-04 Bjenberg 02-frame1646.png
+./images/2022-12-04 Bjenberg 02-frame4225.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0400.png
+./images/2022-12-04 Bjenberg 02-frame0265.png
+./images/2022-12-04 Bjenberg 02-frame0106.png
+./images/2022-12-04 Bjenberg 02-frame0477.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000908.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1825.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000158.png
+./images/2022-12-03 Nyland 01_stabilized-frame1561.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001432.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2240.png
+./images/2022-12-04 Bjenberg 02-frame5066.png
+./images/2022-12-04 Bjenberg 02-frame2742.png
+./images/2022-12-04 Bjenberg 02-frame1600.png
+./images/2022-12-04 Bjenberg 02-frame0727.png
+./images/2022-12-04 Bjenberg 02-frame0270.png
+./images/2022-12-04 Bjenberg 02-frame1612.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000519.png
+./images/2022-12-04 Bjenberg 02-frame4226.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0101.png
+./images/2022-12-03 Nyland 01_stabilized-frame0845.png
+./images/2022-12-04 Bjenberg 02-frame2004.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000904.png
+./images/2022-12-04 Bjenberg 02-frame2682.png
+./images/2022-12-04 Bjenberg 02-frame4594.png
+./images/2022-12-04 Bjenberg 02-frame2583.png
+./images/2022-12-04 Bjenberg 02-frame4033.png
+./images/2022-12-04 Bjenberg 02-frame0063.png
+./images/2022-12-04 Bjenberg 02-frame0610.png
+./images/2022-12-04 Bjenberg 02-frame0022.png
+./images/2022-12-04 Bjenberg 02-frame0978.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1651.png
+./images/2022-12-03 Nyland 01_stabilized-frame2368.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001552.png
+./images/2022-12-04 Bjenberg 02-frame4185.png
+./images/2022-12-04 Bjenberg 02-frame4050.png
+./images/2022-12-04 Bjenberg 02-frame0366.png
+./images/2022-12-04 Bjenberg 02-frame0012.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1957.png
+./images/2022-12-04 Bjenberg 02-frame0300.png
+./images/2022-12-04 Bjenberg 02-frame4277.png
+./images/2022-12-04 Bjenberg 02-frame2678.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001347.png
+./images/2022-12-04 Bjenberg 02-frame0244.png
+./images/2022-12-04 Bjenberg 02-frame1021.png
+./images/2022-12-04 Bjenberg 02-frame3828.png
+./images/2022-12-04 Bjenberg 02-frame4856.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1872.png
+./images/2022-12-03 Nyland 01_stabilized-frame1016.png
+./images/2022-12-04 Bjenberg 02-frame0947.png
+./images/2022-12-04 Bjenberg 02-frame0119.png
+./images/2022-12-04 Bjenberg 02-frame4106.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001349.png
+./images/2022-12-04 Bjenberg 02-frame5090.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001756.png
+./images/2022-12-04 Bjenberg 02-frame0080.png
+./images/2022-12-04 Bjenberg 02-frame3745.png
+./images/2022-12-04 Bjenberg 02-frame1184.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1698.png
+./images/2022-12-04 Bjenberg 02-frame0622.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2159.png
+./images/2022-12-04 Bjenberg 02-frame4175.png
+./images/2022-12-04 Bjenberg 02-frame1795.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001760.png
+./images/2022-12-04 Bjenberg 02-frame0939.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000930.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000966.png
+./images/2022-12-03 Nyland 01_stabilized-frame0742.png
+./images/2022-12-04 Bjenberg 02-frame4580.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000069.png
+./images/2022-12-04 Bjenberg 02-frame2708.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001624.png
+./images/2022-12-03 Nyland 01_stabilized-frame1859.png
+./images/2022-12-04 Bjenberg 02-frame0256.png
+./images/2022-12-04 Bjenberg 02-frame3813.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001935.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0991.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1849.png
+./images/2022-12-03 Nyland 01_stabilized-frame0553.png
+./images/2022-12-04 Bjenberg 02-frame4166.png
+./images/2022-12-04 Bjenberg 02-frame4610.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0367.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2463.png
+./images/2022-12-04 Bjenberg 02-frame0360.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1486.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1054.png
+./images/2022-12-04 Bjenberg 02-frame5144.png
+./images/2022-12-03 Nyland 01_stabilized-frame1952.png
+./images/2022-12-03 Nyland 01_stabilized-frame0968.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001983.png
+./images/2022-12-04 Bjenberg 02-frame2336.png
+./images/2022-12-03 Nyland 01_stabilized-frame2364.png
+./images/2022-12-03 Nyland 01_stabilized-frame1090.png
+./images/2022-12-04 Bjenberg 02-frame2360.png
+./images/2022-12-04 Bjenberg 02-frame4155.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001593.png
+./images/2022-12-04 Bjenberg 02-frame1039.png
+./images/2022-12-04 Bjenberg 02-frame1914.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1736.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001398.png
+./images/2022-12-04 Bjenberg 02-frame2625.png
+./images/2022-12-03 Nyland 01_stabilized-frame0031.png
+./images/2022-12-04 Bjenberg 02-frame0781.png
+./images/2022-12-03 Nyland 01_stabilized-frame1758.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1939.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001397.png
+./images/2022-12-04 Bjenberg 02-frame4859.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1654.png
+./images/2022-12-04 Bjenberg 02-frame2138.png
+./images/2022-12-03 Nyland 01_stabilized-frame1006.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1203.png
+./images/2022-12-04 Bjenberg 02-frame2440.png
+./images/2022-12-03 Nyland 01_stabilized-frame1098.png
+./images/2022-12-04 Bjenberg 02-frame0955.png
+./images/2022-12-04 Bjenberg 02-frame0316.png
+./images/2022-12-04 Bjenberg 02-frame0920.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001750.png
+./images/2022-12-04 Bjenberg 02-frame4104.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1036.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2166.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1746.png
+./images/2022-12-04 Bjenberg 02-frame2548.png
+./images/2022-12-04 Bjenberg 02-frame0750.png
+./images/2022-12-04 Bjenberg 02-frame1012.png
+./images/2022-12-04 Bjenberg 02-frame4555.png
+./images/2022-12-04 Bjenberg 02-frame1122.png
+./images/2022-12-04 Bjenberg 02-frame4991.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0396.png
+./images/2022-12-04 Bjenberg 02-frame1942.png
+./images/2022-12-03 Nyland 01_stabilized-frame2238.png
+./images/2022-12-04 Bjenberg 02-frame2349.png
+./images/2022-12-03 Nyland 01_stabilized-frame0680.png
+./images/2022-12-04 Bjenberg 02-frame4058.png
+./images/2022-12-04 Bjenberg 02-frame2764.png
+./images/2022-12-04 Bjenberg 02-frame5010.png
+./images/2022-12-03 Nyland 01_stabilized-frame0655.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1962.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2262.png
+./images/2022-12-04 Bjenberg 02-frame1436.png
+./images/2022-12-04 Bjenberg 02-frame3127.png
+./images/2022-12-04 Bjenberg 02-frame2727.png
+./images/2022-12-03 Nyland 01_stabilized-frame2007.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000731.png
+./images/2022-12-04 Bjenberg 02-frame3847.png
+./images/2022-12-04 Bjenberg 02-frame1295.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2180.png
+./images/2022-12-04 Bjenberg 02-frame1119.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000034.png
+./images/2022-12-03 Nyland 01_stabilized-frame1763.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001416.png
+./images/2022-12-04 Bjenberg 02-frame0524.png
+./images/2022-12-04 Bjenberg 02-frame1115.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000009.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1320.png
+./images/2022-12-04 Bjenberg 02-frame2209.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0737.png
+./images/2022-12-04 Bjenberg 02-frame4605.png
+./images/2022-12-04 Bjenberg 02-frame3607.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001016.png
+./images/2022-12-04 Bjenberg 02-frame4529.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001863.png
+./images/2022-12-04 Bjenberg 02-frame3595.png
+./images/2022-12-04 Bjenberg 02-frame2282.png
+./images/2022-12-03 Nyland 01_stabilized-frame0738.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2117.png
+./images/2022-12-04 Bjenberg 02-frame4048.png
+./images/2022-12-04 Bjenberg 02-frame1489.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000458.png
+./images/2022-12-04 Bjenberg 02-frame2542.png
+./images/2022-12-04 Bjenberg 02-frame0072.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000946.png
+./images/2022-12-04 Bjenberg 02-frame4030.png
+./images/2022-12-04 Bjenberg 02-frame0771.png
+./images/2022-12-04 Bjenberg 02-frame1786.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2428.png
+./images/2022-12-03 Nyland 01_stabilized-frame1937.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1821.png
+./images/2022-12-04 Bjenberg 02-frame0163.png
+./images/2022-12-04 Bjenberg 02-frame0729.png
+./images/2022-12-04 Bjenberg 02-frame4146.png
+./images/2022-12-04 Bjenberg 02-frame3205.png
+./images/2022-12-04 Bjenberg 02-frame0981.png
+./images/2022-12-04 Bjenberg 02-frame0507.png
+./images/2022-12-04 Bjenberg 02-frame3567.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0977.png
+./images/2022-12-03 Nyland 01_stabilized-frame2013.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1929.png
+./images/2022-12-04 Bjenberg 02-frame0123.png
+./images/2022-12-04 Bjenberg 02-frame3683.png
+./images/2022-12-03 Nyland 01_stabilized-frame1350.png
+./images/2022-12-04 Bjenberg 02-frame4950.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0003.png
+./images/2022-12-04 Bjenberg 02-frame4194.png
+./images/2022-12-04 Bjenberg 02-frame4871.png
+./images/2022-12-04 Bjenberg 02-frame0856.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001460.png
+./images/2022-12-04 Bjenberg 02-frame2769.png
+./images/2022-12-03 Nyland 01_stabilized-frame2371.png
+./images/2022-12-04 Bjenberg 02-frame1655.png
+./images/2022-12-04 Bjenberg 02-frame4150.png
+./images/2022-12-04 Bjenberg 02-frame1774.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000899.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1793.png
+./images/2022-12-04 Bjenberg 02-frame2488.png
+./images/2022-12-04 Bjenberg 02-frame2636.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001703.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001464.png
+./images/2022-12-03 Nyland 01_stabilized-frame2348.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1823.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000174.png
+./images/2022-12-04 Bjenberg 02-frame3122.png
+./images/2022-12-03 Nyland 01_stabilized-frame0970.png
+./images/2022-12-04 Bjenberg 02-frame3540.png
+./images/2022-12-04 Bjenberg 02-frame2524.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2177.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001599.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001932.png
+./images/2022-12-04 Bjenberg 02-frame4137.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1699.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1155.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000992.png
+./images/2022-12-04 Bjenberg 02-frame1416.png
+./images/2022-12-04 Bjenberg 02-frame4912.png
+./images/2022-12-04 Bjenberg 02-frame2737.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0721.png
+./images/2022-12-04 Bjenberg 02-frame1697.png
+./images/2022-12-03 Nyland 01_stabilized-frame1910.png
+./images/2022-12-04 Bjenberg 02-frame2497.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0710.png
+./images/2022-12-03 Nyland 01_stabilized-frame0672.png
+./images/2022-12-04 Bjenberg 02-frame0866.png
+./images/2022-12-04 Bjenberg 02-frame3000.png
+./images/2022-12-04 Bjenberg 02-frame1890.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000722.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000726.png
+./images/2022-12-04 Bjenberg 02-frame0255.png
+./images/2022-12-04 Bjenberg 02-frame0368.png
+./images/2022-12-04 Bjenberg 02-frame2833.png
+./images/2022-12-04 Bjenberg 02-frame4074.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0300.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1634.png
+./images/2022-12-04 Bjenberg 02-frame3238.png
+./images/2022-12-03 Nyland 01_stabilized-frame1914.png
+./images/2022-12-04 Bjenberg 02-frame1732.png
+./images/2022-12-04 Bjenberg 02-frame0128.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001358.png
+./images/2022-12-04 Bjenberg 02-frame1131.png
+./images/2022-12-04 Bjenberg 02-frame3733.png
+./images/2022-12-04 Bjenberg 02-frame3767.png
+./images/2022-12-04 Bjenberg 02-frame4637.png
+./images/2022-12-04 Bjenberg 02-frame2518.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2264.png
+./images/2022-12-03 Nyland 01_stabilized-frame1717.png
+./images/2022-12-04 Bjenberg 02-frame3096.png
+./images/2022-12-04 Bjenberg 02-frame1898.png
+./images/2022-12-03 Nyland 01_stabilized-frame0077.png
+./images/2022-12-04 Bjenberg 02-frame0045.png
+./images/2022-12-04 Bjenberg 02-frame0585.png
+./images/2022-12-03 Nyland 01_stabilized-frame0016.png
+./images/2022-12-04 Bjenberg 02-frame4238.png
+./images/2022-12-04 Bjenberg 02-frame0829.png
+./images/2022-12-04 Bjenberg 02-frame0294.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0707.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0768.png
+./images/2022-12-04 Bjenberg 02-frame3485.png
+./images/2022-12-04 Bjenberg 02-frame3159.png
+./images/2022-12-04 Bjenberg 02-frame4070.png
+./images/2022-12-04 Bjenberg 02-frame0009.png
+./images/2022-12-04 Bjenberg 02-frame3170.png
+./images/2022-12-04 Bjenberg 02-frame0973.png
+./images/2022-12-04 Bjenberg 02-frame3799.png
+./images/2022-12-04 Bjenberg 02-frame1827.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000483.png
+./images/2022-12-04 Bjenberg 02-frame2692.png
+./images/2022-12-04 Bjenberg 02-frame2148.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1612.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2078.png
+./images/2022-12-04 Bjenberg 02-frame2093.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000921.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0727.png
+./images/2022-12-04 Bjenberg 02-frame3301.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001768.png
+./images/2022-12-04 Bjenberg 02-frame1461.png
+./images/2022-12-04 Bjenberg 02-frame0516.png
+./images/2022-12-04 Bjenberg 02-frame2232.png
+./images/2022-12-04 Bjenberg 02-frame0174.png
+./images/2022-12-03 Nyland 01_stabilized-frame1015.png
+./images/2022-12-04 Bjenberg 02-frame2640.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1790.png
+./images/2022-12-04 Bjenberg 02-frame2451.png
+./images/2022-12-04 Bjenberg 02-frame1630.png
+./images/2022-12-04 Bjenberg 02-frame3255.png
+./images/2022-12-03 Nyland 01_stabilized-frame1876.png
+./images/2022-12-03 Nyland 01_stabilized-frame1539.png
+./images/2022-12-03 Nyland 01_stabilized-frame1205.png
+./images/2022-12-04 Bjenberg 02-frame3047.png
+./images/2022-12-03 Nyland 01_stabilized-frame0624.png
+./images/2022-12-03 Nyland 01_stabilized-frame2396.png
+./images/2022-12-04 Bjenberg 02-frame2550.png
+./images/2022-12-04 Bjenberg 02-frame0195.png
+./images/2022-12-04 Bjenberg 02-frame1283.png
+./images/2022-12-04 Bjenberg 02-frame2813.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0326.png
+./images/2022-12-04 Bjenberg 02-frame0249.png
+./images/2022-12-04 Bjenberg 02-frame3549.png
+./images/2022-12-04 Bjenberg 02-frame0148.png
+./images/2022-12-03 Nyland 01_stabilized-frame1797.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2244.png
+./images/2022-12-04 Bjenberg 02-frame2546.png
+./images/2022-12-04 Bjenberg 02-frame4842.png
+./images/2022-12-04 Bjenberg 02-frame0791.png
+./images/2022-12-04 Bjenberg 02-frame2716.png
+./images/2022-12-03 Nyland 01_stabilized-frame0772.png
+./images/2022-12-04 Bjenberg 02-frame3029.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001404.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1328.png
+./images/2022-12-04 Bjenberg 02-frame3882.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0038.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001106.png
+./images/2022-12-03 Nyland 01_stabilized-frame1810.png
+./images/2022-12-04 Bjenberg 02-frame4192.png
+./images/2022-12-04 Bjenberg 02-frame1922.png
+./images/2022-12-04 Bjenberg 02-frame0126.png
+./images/2022-12-03 Nyland 01_stabilized-frame0100.png
+./images/2022-12-04 Bjenberg 02-frame1638.png
+./images/2022-12-04 Bjenberg 02-frame0181.png
+./images/2022-12-03 Nyland 01_stabilized-frame1725.png
+./images/2022-12-04 Bjenberg 02-frame0994.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0731.png
+./images/2022-12-04 Bjenberg 02-frame0042.png
+./images/2022-12-04 Bjenberg 02-frame2450.png
+./images/2022-12-04 Bjenberg 02-frame3758.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001602.png
+./images/2022-12-03 Nyland 01_stabilized-frame0561.png
+./images/2022-12-04 Bjenberg 02-frame0342.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2413.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001017.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1325.png
+./images/2022-12-04 Bjenberg 02-frame2046.png
+./images/2022-12-03 Nyland 01_stabilized-frame1814.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2152.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000451.png
+./images/2022-12-03 Nyland 01_stabilized-frame1953.png
+./images/2022-12-03 Nyland 01_stabilized-frame0666.png
+./images/2022-12-03 Nyland 01_stabilized-frame0348.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001284.png
+./images/2022-12-04 Bjenberg 02-frame0558.png
+./images/2022-12-03 Nyland 01_stabilized-frame2398.png
+./images/2022-12-04 Bjenberg 02-frame2009.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2427.png
+./images/2022-12-04 Bjenberg 02-frame1669.png
+./images/2022-12-04 Bjenberg 02-frame0208.png
+./images/2022-12-04 Bjenberg 02-frame0261.png
+./images/2022-12-04 Bjenberg 02-frame2335.png
+./images/2022-12-04 Bjenberg 02-frame1045.png
+./images/2022-12-04 Bjenberg 02-frame3088.png
+./images/2022-12-04 Bjenberg 02-frame0336.png
+./images/2022-12-04 Bjenberg 02-frame2055.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0701.png
+./images/2022-12-04 Bjenberg 02-frame2357.png
+./images/2022-12-04 Bjenberg 02-frame0243.png
+./images/2022-12-04 Bjenberg 02-frame0963.png
+./images/2022-12-04 Bjenberg 02-frame2044.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001042.png
+./images/2022-12-03 Nyland 01_stabilized-frame0549.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001623.png
+./images/2022-12-04 Bjenberg 02-frame3548.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000023.png
+./images/2022-12-03 Nyland 01_stabilized-frame0616.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000671.png
+./images/2022-12-04 Bjenberg 02-frame1135.png
+./images/2022-12-03 Nyland 01_stabilized-frame0811.png
+./images/2022-12-04 Bjenberg 02-frame0525.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1346.png
+./images/2022-12-04 Bjenberg 02-frame1765.png
+./images/2022-12-04 Bjenberg 02-frame2653.png
+./images/2022-12-04 Bjenberg 02-frame0202.png
+./images/2022-12-04 Bjenberg 02-frame0178.png
+./images/2022-12-04 Bjenberg 02-frame2146.png
+./images/2022-12-03 Nyland 01_stabilized-frame1427.png
+./images/2022-12-03 Nyland 01_stabilized-frame0400.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0993.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000008.png
+./images/2022-12-04 Bjenberg 02-frame3020.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2233.png
+./images/2022-12-04 Bjenberg 02-frame1442.png
+./images/2022-12-03 Nyland 01_stabilized-frame1694.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000694.png
+./images/2022-12-04 Bjenberg 02-frame2417.png
+./images/2022-12-03 Nyland 01_stabilized-frame0838.png
+./images/2022-12-04 Bjenberg 02-frame0858.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0734.png
+./images/2022-12-04 Bjenberg 02-frame2247.png
+./images/2022-12-04 Bjenberg 02-frame3279.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001366.png
+./images/2022-12-04 Bjenberg 02-frame3294.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1535.png
+./images/2022-12-04 Bjenberg 02-frame1829.png
+./images/2022-12-03 Nyland 01_stabilized-frame1720.png
+./images/2022-12-04 Bjenberg 02-frame4616.png
+./images/2022-12-04 Bjenberg 02-frame2385.png
+./images/2022-12-03 Nyland 01_stabilized-frame0821.png
+./images/2022-12-03 Nyland 01_stabilized-frame1776.png
+./images/2022-12-04 Bjenberg 02-frame3793.png
+./images/2022-12-03 Nyland 01_stabilized-frame0790.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001405.png
+./images/2022-12-04 Bjenberg 02-frame0502.png
+./images/2022-12-04 Bjenberg 02-frame0983.png
+./images/2022-12-04 Bjenberg 02-frame3091.png
+./images/2022-12-04 Bjenberg 02-frame1469.png
+./images/2022-12-04 Bjenberg 02-frame2402.png
+./images/2022-12-04 Bjenberg 02-frame3681.png
+./images/2022-12-04 Bjenberg 02-frame3008.png
+./images/2022-12-04 Bjenberg 02-frame3718.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000870.png
+./images/2022-12-03 Nyland 01_stabilized-frame2236.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0769.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001775.png
+./images/2022-12-04 Bjenberg 02-frame4266.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000013.png
+./images/2022-12-03 Nyland 01_stabilized-frame0078.png
+./images/2022-12-03 Nyland 01_stabilized-frame0717.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000486.png
+./images/2022-12-03 Nyland 01_stabilized-frame1104.png
+./images/2022-12-03 Nyland 01_stabilized-frame1751.png
+./images/2022-12-04 Bjenberg 02-frame1721.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1137.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000088.png
+./images/2022-12-04 Bjenberg 02-frame0490.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001350.png
+./images/2022-12-03 Nyland 01_stabilized-frame1364.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1613.png
+./images/2022-12-04 Bjenberg 02-frame1287.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1681.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1522.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1880.png
+./images/2022-12-04 Bjenberg 02-frame2062.png
+./images/2022-12-04 Bjenberg 02-frame0183.png
+./images/2022-12-04 Bjenberg 02-frame3206.png
+./images/2022-12-04 Bjenberg 02-frame2839.png
+./images/2022-12-03 Nyland 01_stabilized-frame0841.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001588.png
+./images/2022-12-04 Bjenberg 02-frame2516.png
+./images/2022-12-04 Bjenberg 02-frame1438.png
+./images/2022-12-04 Bjenberg 02-frame1701.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001769.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001061.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001892.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001377.png
+./images/2022-12-04 Bjenberg 02-frame4080.png
+./images/2022-12-04 Bjenberg 02-frame1767.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001022.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001513.png
+./images/2022-12-04 Bjenberg 02-frame4643.png
+./images/2022-12-04 Bjenberg 02-frame0883.png
+./images/2022-12-04 Bjenberg 02-frame4201.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0046.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0074.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2151.png
+./images/2022-12-04 Bjenberg 02-frame3530.png
+./images/2022-12-04 Bjenberg 02-frame3703.png
+./images/2022-12-03 Nyland 01_stabilized-frame2207.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000161.png
+./images/2022-12-04 Bjenberg 02-frame2821.png
+./images/2022-12-04 Bjenberg 02-frame1307.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000092.png
+./images/2022-12-03 Nyland 01_stabilized-frame0011.png
+./images/2022-12-03 Nyland 01_stabilized-frame1712.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1050.png
+./images/2022-12-03 Nyland 01_stabilized-frame1156.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1949.png
+./images/2022-12-04 Bjenberg 02-frame4900.png
+./images/2022-12-04 Bjenberg 02-frame2372.png
+./images/2022-12-03 Nyland 01_stabilized-frame1010.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0018.png
+./images/2022-12-04 Bjenberg 02-frame4024.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000729.png
+./images/2022-12-03 Nyland 01_stabilized-frame2494.png
+./images/2022-12-03 Nyland 01_stabilized-frame0817.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1715.png
+./images/2022-12-03 Nyland 01_stabilized-frame2034.png
+./images/2022-12-04 Bjenberg 02-frame2270.png
+./images/2022-12-04 Bjenberg 02-frame0611.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000866.png
+./images/2022-12-03 Nyland 01_stabilized-frame0538.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001039.png
+./images/2022-12-04 Bjenberg 02-frame0539.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0395.png
+./images/2022-12-04 Bjenberg 02-frame0103.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1539.png
+./images/2022-12-04 Bjenberg 02-frame4315.png
+./images/2022-12-04 Bjenberg 02-frame3106.png
+./images/2022-12-04 Bjenberg 02-frame1127.png
+./images/2022-12-04 Bjenberg 02-frame4255.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2153.png
+./images/2022-12-04 Bjenberg 02-frame4918.png
+./images/2022-12-04 Bjenberg 02-frame0623.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001789.png
+./images/2022-12-04 Bjenberg 02-frame2768.png
+./images/2022-12-04 Bjenberg 02-frame3483.png
+./images/2022-12-03 Nyland 01_stabilized-frame1560.png
+./images/2022-12-04 Bjenberg 02-frame0957.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1921.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1743.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000177.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1338.png
+./images/2022-12-03 Nyland 01_stabilized-frame2350.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1560.png
+./images/2022-12-04 Bjenberg 02-frame2024.png
+./images/2022-12-04 Bjenberg 02-frame4364.png
+./images/2022-12-04 Bjenberg 02-frame1992.png
+./images/2022-12-03 Nyland 01_stabilized-frame1850.png
+./images/2022-12-03 Nyland 01_stabilized-frame0121.png
+./images/2022-12-04 Bjenberg 02-frame4322.png
+./images/2022-12-04 Bjenberg 02-frame2028.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001559.png
+./images/2022-12-04 Bjenberg 02-frame2103.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001273.png
+./images/2022-12-03 Nyland 01_stabilized-frame0615.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000198.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1055.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0366.png
+./images/2022-12-04 Bjenberg 02-frame3504.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000083.png
+./images/2022-12-04 Bjenberg 02-frame4557.png
+./images/2022-12-04 Bjenberg 02-frame4035.png
+./images/2022-12-04 Bjenberg 02-frame5061.png
+./images/2022-12-03 Nyland 01_stabilized-frame0758.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2228.png
+./images/2022-12-04 Bjenberg 02-frame4313.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001687.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0983.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000202.png
+./images/2022-12-04 Bjenberg 02-frame3795.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001110.png
+./images/2022-12-04 Bjenberg 02-frame3211.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001024.png
+./images/2022-12-04 Bjenberg 02-frame4825.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2109.png
+./images/2022-12-04 Bjenberg 02-frame3265.png
+./images/2022-12-04 Bjenberg 02-frame4907.png
+./images/2022-12-04 Bjenberg 02-frame3275.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1604.png
+./images/2022-12-04 Bjenberg 02-frame0988.png
+./images/2022-12-04 Bjenberg 02-frame1834.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001476.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1951.png
+./images/2022-12-04 Bjenberg 02-frame3077.png
+./images/2022-12-04 Bjenberg 02-frame4937.png
+./images/2022-12-04 Bjenberg 02-frame3102.png
+./images/2022-12-03 Nyland 01_stabilized-frame0827.png
+./images/2022-12-04 Bjenberg 02-frame4278.png
+./images/2022-12-03 Nyland 01_stabilized-frame1846.png
+./images/2022-12-04 Bjenberg 02-frame3680.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000965.png
+./images/2022-12-03 Nyland 01_stabilized-frame1550.png
+./images/2022-12-04 Bjenberg 02-frame2217.png
+./images/2022-12-04 Bjenberg 02-frame0658.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1561.png
+./images/2022-12-03 Nyland 01_stabilized-frame0708.png
+./images/2022-12-04 Bjenberg 02-frame0114.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000832.png
+./images/2022-12-04 Bjenberg 02-frame2478.png
+./images/2022-12-04 Bjenberg 02-frame3493.png
+./images/2022-12-04 Bjenberg 02-frame4079.png
+./images/2022-12-04 Bjenberg 02-frame0138.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0279.png
+./images/2022-12-04 Bjenberg 02-frame1826.png
+./images/2022-12-03 Nyland 01_stabilized-frame0106.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001269.png
+./images/2022-12-03 Nyland 01_stabilized-frame0791.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame0312.png
+./images/2022-12-04 Bjenberg 02-frame3657.png
+./images/2022-12-03 Nyland 01_stabilized-frame1912.png
+./images/2022-12-04 Bjenberg 02-frame3551.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001641.png
+./images/2022-12-04 Bjenberg 02-frame3521.png
+./images/2022-12-04 Bjenberg 02-frame4292.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001913.png
+./images/2022-12-04 Bjenberg 02-frame2081.png
+./images/2022-12-04 Bjenberg 02-frame1102.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001693.png
+./images/2022-12-04 Bjenberg 02-frame0914.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1501.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001421.png
+./images/2022-12-04 Bjenberg 02-frame1831.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000942.png
+./images/2022-12-04 Bjenberg 02-frame3166.png
+./images/2022-12-03 Nyland 01_stabilized-frame1092.png
+./images/2022-12-04 Bjenberg 02-frame2245.png
+./images/2022-12-03 Nyland 01_stabilized-frame0686.png
+./images/2022-12-03 Nyland 01_stabilized-frame0331.png
+./images/2022-12-04 Bjenberg 02-frame4914.png
+./images/2022-12-04 Bjenberg 02-frame1797.png
+./images/2022-12-04 Bjenberg 02-frame5056.png
+./images/2022-12-03 Nyland 01_stabilized-frame2411.png
+./images/2022-12-04 Bjenberg 02-frame0692.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame2123.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000522.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame000706.png
+./images/2022-12-23 Asjo 01_HD 5x stab-frame1075.png
+./images/2022-12-23 Bjenberg 02_stabilized-frame001266.png
+./images/2022-12-04 Bjenberg 02-frame4341.png
+./images/2022-12-03 Nyland 01_stabilized-frame2031.png
+./images/2022-12-04 Bjenberg 02-frame3303.png
+./images/2022-12-04 Bjenberg 02-frame0274.png
+./images/2022-12-04 Bjenberg 02-frame3693.png
+./images/2022-12-04 Bjenberg 02-frame0302.png
+./images/2022-12-04 Bjenberg 02-frame0660.png
+./images/2022-12-04 Bjenberg 02-frame1773.png
+./images/2022-12-04 Bjenberg 02-frame1116.png
+./images/2022-12-03 Nyland 01_stabilized-frame1565.png
