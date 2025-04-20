@@ -1,10 +1,10 @@
 # Dataset root directory relative to the yolov5 directory
-path: data
+path: ../data
 
 # Train/val/test sets: specify directories, *.txt files, or lists
-train: train # 128 images for training
-val: val # 128 images for validation
-test: test # Optional path to test images
+train: train.txt # 128 images for training
+val: val.txt # 128 images for validation
+test: test.txt # Optional path to test images
 
 # Classes
 names:
